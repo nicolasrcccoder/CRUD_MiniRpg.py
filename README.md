@@ -1,0 +1,1 @@
+neste projeto , eu fiz um crud de um "mini rpg" que envolve dicionario dentro de listas , tratamento de exceção de erros , funções , e bastante lógica. Cada vez mais estou me adaptando e fazendo projetos maiores aos poucos.
